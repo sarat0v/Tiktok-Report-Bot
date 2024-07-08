@@ -21,7 +21,7 @@ function displayAsciiArt() {
     `);
     console.log(asciiArt);
     console.log(chalk.grey('----------------------------------------------------------------------------------------------------------------------'));
-    console.log(chalk.white('    https://github.com/agr0thh'), chalk.grey(" | "), chalk.white('https://github.com/agr0thh'), chalk.grey(" | "), chalk.white('https://github.com/agr0thh'));
+    console.log(chalk.white('    https://github.com/sarat0v'), chalk.grey(" | "), chalk.white('https://github.com/sarat0v'), chalk.grey(" | "), chalk.white('https://github.com/sarat0v'));
     console.log(chalk.grey('----------------------------------------------------------------------------------------------------------------------\n'));
 }
 
